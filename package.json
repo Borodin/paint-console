@@ -1,0 +1,23 @@
+{
+    "name": "paint-console",
+    "version": "0.0.1",
+    "description": "Simple colorable log. Support inspect objects and single line update",
+    "keywords": [
+        "color",
+        "console",
+        "log",
+        "paint",
+        "repaint",
+        "logging"
+    ],
+    "author": "Maxim Borodin <borodinmk@gmail.com>",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/borodin/paint-console"
+    },
+    "bugs": {
+        "url": "https://github.com/borodin/paint-console/issues"
+    },
+    "licence": "MIT"
+}
