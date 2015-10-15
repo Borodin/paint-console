@@ -18,4 +18,4 @@ console.log('console.log();');
 ![demo.png](http://i.imgur.com/ewxotFF.png)
 
 ### Source
-[view source](https://github.com/borodin/paint-console/index.js)
+[view source](https://github.com/Borodin/paint-console/blob/master/index.js)
